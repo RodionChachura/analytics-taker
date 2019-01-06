@@ -14,10 +14,6 @@ variable "sentry_key" {
   default = "<SENTRY_KEY>"
 }
 
-variable "client_secrets" {
-  default = "<CLIENT_SECRETS>"
-}
-
 variable "view_id" {
   default = "<VIEW_ID>"
 }
