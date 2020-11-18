@@ -1,11 +1,17 @@
-# analytics-taker
+# Analytics Taker
+Use Google Analytics and Python to show how many active users are using your website
 
 > 
 
 ![alt text](https://cdn-images-1.medium.com/max/1000/1*A7YaqWb4DXTrFmuDlOC5dA.png)
-Lambda function returns the number of active users right now on your site. See example at geekrodion.com.
 
 ## [Blog Post](https://geekrodion.com/blog/realtime-counter)
+
+## Technologies
+* Python
+* AWS
+* Terraform
+* Google Analytics API
 
 ## License
 
